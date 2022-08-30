@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>Home</title>
+</head>
+
+<body>
+	<h1>
+		Hello world!
+	</h1>
+	<div th:text="${message}"> </div>
+	<img src="/image/bird2.png" width="200" height="200" /><br>
+	<input type="button" name="테스트" value="테스트" onClick="test()">
+</body>
+
+</html>
