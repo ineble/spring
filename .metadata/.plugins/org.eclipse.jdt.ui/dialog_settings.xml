@@ -19,8 +19,44 @@
 	<section name="JavaSearchPage">
 		<item key="CASE_SENSITIVE" value="false"/>
 		<item key="INCLUDE_MASK" value="15"/>
-		<item key="HISTORY_SIZE" value="10"/>
+		<item key="HISTORY_SIZE" value="12"/>
 		<section name="HISTORY0">
+			<item key="searchFor" value="3"/>
+			<item key="scope" value="0"/>
+			<item key="pattern" value="bean"/>
+			<item key="limitTo" value="2"/>
+			<item key="matchLocations" value="0"/>
+			<item key="javaElement" value=""/>
+			<item key="isCaseSensitive" value="false"/>
+			<item key="includeMask" value="15"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY1">
+			<item key="searchFor" value="3"/>
+			<item key="scope" value="0"/>
+			<item key="pattern" value="beans"/>
+			<item key="limitTo" value="2"/>
+			<item key="matchLocations" value="0"/>
+			<item key="javaElement" value=""/>
+			<item key="isCaseSensitive" value="false"/>
+			<item key="includeMask" value="15"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY2">
+			<item key="searchFor" value="3"/>
+			<item key="scope" value="0"/>
+			<item key="pattern" value="viewResolver"/>
+			<item key="limitTo" value="2"/>
+			<item key="matchLocations" value="0"/>
+			<item key="javaElement" value=""/>
+			<item key="isCaseSensitive" value="false"/>
+			<item key="includeMask" value="15"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY3">
 			<item key="searchFor" value="3"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="member"/>
@@ -32,7 +68,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY1">
+		<section name="HISTORY4">
 			<item key="searchFor" value="0"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="testform"/>
@@ -44,7 +80,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY2">
+		<section name="HISTORY5">
 			<item key="searchFor" value="0"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="mapper"/>
@@ -56,7 +92,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY3">
+		<section name="HISTORY6">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="location"/>
@@ -68,7 +104,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY4">
+		<section name="HISTORY7">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="mybatis.mapper-locations"/>
@@ -80,7 +116,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY5">
+		<section name="HISTORY8">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="DataSource Configuration"/>
@@ -92,7 +128,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY6">
+		<section name="HISTORY9">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="mkdir"/>
@@ -104,7 +140,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY7">
+		<section name="HISTORY10">
 			<item key="searchFor" value="0"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="fileName2"/>
@@ -116,22 +152,10 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY8">
+		<section name="HISTORY11">
 			<item key="searchFor" value="0"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="memberVO"/>
-			<item key="limitTo" value="2"/>
-			<item key="matchLocations" value="0"/>
-			<item key="javaElement" value=""/>
-			<item key="isCaseSensitive" value="false"/>
-			<item key="includeMask" value="11"/>
-			<list key="workingSets">
-			</list>
-		</section>
-		<section name="HISTORY9">
-			<item key="searchFor" value="0"/>
-			<item key="scope" value="0"/>
-			<item key="pattern" value="selectAllMemberList"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -187,6 +211,7 @@
 		<item key="updateTextualMatches" value="false"/>
 		<item key="updateQualifiedNames" value="false"/>
 		<item key="patterns" value="*"/>
+		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="SourceActionDialog.constructors">
 		<item key="VisibilityModifier" value="1"/>
@@ -202,6 +227,16 @@
 		<item key="DIALOG_Y_ORIGIN" value="76"/>
 		<item key="DIALOG_WIDTH" value="531"/>
 		<item key="DIALOG_HEIGHT" value="678"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+	<section name="OverrideMethodDialog">
+		<item key="showtypes" value="true"/>
+	</section>
+	<section name="DialogBounds_OverrideMethodDialog">
+		<item key="DIALOG_X_ORIGIN" value="219"/>
+		<item key="DIALOG_Y_ORIGIN" value="186"/>
+		<item key="DIALOG_WIDTH" value="539"/>
+		<item key="DIALOG_HEIGHT" value="513"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

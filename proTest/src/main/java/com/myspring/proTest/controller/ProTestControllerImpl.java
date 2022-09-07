@@ -23,7 +23,7 @@ public class ProTestControllerImpl implements ProTestController {
 
 	@RequestMapping(value =  "proTest/testform.do" , method = RequestMethod.GET)
 	private ModelAndView main(HttpServletRequest request, HttpServletResponse response) { 
-		 ModelAndView mav = new ModelAndView("/testform"); 
+		 ModelAndView mav = new ModelAndView("proTest/testform"); 
 		 return mav; 
 		
 	}
