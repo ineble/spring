@@ -23,7 +23,7 @@
 		<section name="HISTORY0">
 			<item key="searchFor" value="3"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="bean"/>
+			<item key="pattern" value="webapp"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -35,7 +35,7 @@
 		<section name="HISTORY1">
 			<item key="searchFor" value="3"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="beans"/>
+			<item key="pattern" value="bean"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -47,7 +47,7 @@
 		<section name="HISTORY2">
 			<item key="searchFor" value="3"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="viewResolver"/>
+			<item key="pattern" value="beans"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -59,7 +59,7 @@
 		<section name="HISTORY3">
 			<item key="searchFor" value="3"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="member"/>
+			<item key="pattern" value="viewResolver"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -69,9 +69,9 @@
 			</list>
 		</section>
 		<section name="HISTORY4">
-			<item key="searchFor" value="0"/>
+			<item key="searchFor" value="3"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="testform"/>
+			<item key="pattern" value="member"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -83,7 +83,7 @@
 		<section name="HISTORY5">
 			<item key="searchFor" value="0"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="mapper"/>
+			<item key="pattern" value="testform"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
@@ -93,6 +93,18 @@
 			</list>
 		</section>
 		<section name="HISTORY6">
+			<item key="searchFor" value="0"/>
+			<item key="scope" value="0"/>
+			<item key="pattern" value="mapper"/>
+			<item key="limitTo" value="2"/>
+			<item key="matchLocations" value="0"/>
+			<item key="javaElement" value=""/>
+			<item key="isCaseSensitive" value="false"/>
+			<item key="includeMask" value="15"/>
+			<list key="workingSets">
+			</list>
+		</section>
+		<section name="HISTORY7">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="location"/>
@@ -104,7 +116,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY7">
+		<section name="HISTORY8">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="mybatis.mapper-locations"/>
@@ -116,7 +128,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY8">
+		<section name="HISTORY9">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="DataSource Configuration"/>
@@ -128,7 +140,7 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY9">
+		<section name="HISTORY10">
 			<item key="searchFor" value="1"/>
 			<item key="scope" value="0"/>
 			<item key="pattern" value="mkdir"/>
@@ -140,22 +152,10 @@
 			<list key="workingSets">
 			</list>
 		</section>
-		<section name="HISTORY10">
-			<item key="searchFor" value="0"/>
-			<item key="scope" value="0"/>
-			<item key="pattern" value="fileName2"/>
-			<item key="limitTo" value="2"/>
-			<item key="matchLocations" value="0"/>
-			<item key="javaElement" value=""/>
-			<item key="isCaseSensitive" value="false"/>
-			<item key="includeMask" value="11"/>
-			<list key="workingSets">
-			</list>
-		</section>
 		<section name="HISTORY11">
 			<item key="searchFor" value="0"/>
 			<item key="scope" value="0"/>
-			<item key="pattern" value="memberVO"/>
+			<item key="pattern" value="fileName2"/>
 			<item key="limitTo" value="2"/>
 			<item key="matchLocations" value="0"/>
 			<item key="javaElement" value=""/>
